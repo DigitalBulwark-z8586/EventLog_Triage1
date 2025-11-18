@@ -56,9 +56,3 @@ Ideal for SOC analysts, blue teamers, homelab environments, and anyone strengthe
 
 ---
 
-## 🚀 How to Use
-
-### 1. Navigate to the script directory
-
-```powershell
-Set-Location "C:\Users\Zach\Desktop\Portfolio\PS Scripts"
